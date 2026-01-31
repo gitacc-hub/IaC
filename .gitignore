@@ -1,0 +1,13 @@
+# Azure / local noise
+*.log
+.env
+.DS_Store
+
+# Bash artifacts
+*.swp
+
+# Azure CLI
+.azure/
+
+# OS & editor
+.vscode/
